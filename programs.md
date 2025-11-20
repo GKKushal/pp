@@ -1,6 +1,5 @@
 # Parallel Computing Programs
 
-This document contains various OpenMP and MPI programs, including their code, running commands, and sample results. Note that the running commands are primarily for Linux environments. For Windows, you may need to install MinGW (for GCC with OpenMP support) or Microsoft MPI (for MPI programs). Adapt the commands accordingly (e.g., use `gcc` instead of `mpicc` for OpenMP, or install MS-MPI equivalents).
 
 ## Program 1: OpenMP Merge Sort (Sequential vs Parallel)
 
